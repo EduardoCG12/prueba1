@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Sumar y Restar</string>
+    <string name="ingresa">Ingresa un Numero</string>
+    <string name="ejecutar">Ejecutar</string>
+    <string name="suma">Ingresa un Numero</string>
+    <string name="resta">Resta</string>
+</resources>
